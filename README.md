@@ -165,5 +165,3 @@ Feel free to open issues or submit pull requests if you have suggestions or impr
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Replace the placeholders and URLs as needed for your actual repository and project details. This `README.md` provides a clear and concise guide to using your `NRCustomButtons` package and should help users get started quickly.
