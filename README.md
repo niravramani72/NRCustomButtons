@@ -6,6 +6,9 @@ Here's a `README.md` file for Swift package `NRCustomButtons`. This file provide
 
 `NRCustomButtons` is a Swift package that provides a collection of customizable SwiftUI button components. Each button type is designed to be highly configurable, allowing you to specify dynamic properties such as titles, colors, icons, and actions.
 
+# Preview
+![](https://github.com/niravramani72/NRCustomButtons/blob/main/View.png)
+
 ## Features
 
 - **Basic Button**: A simple button with customizable title and background color.
